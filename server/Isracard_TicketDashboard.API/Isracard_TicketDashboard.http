@@ -1,0 +1,6 @@
+@Isracard_TicketDashboard_HostAddress = http://localhost:5222
+
+GET {{Isracard_TicketDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
